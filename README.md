@@ -23,29 +23,29 @@ El repositorio se encuentra modularizado para facilitar la revisión técnica de
 
 ## 🚀 Proyectos Destacados
 
-## Proyectos Destacados
-
 ### 1. Orion Financial Group (Caso de Estudio SOC L1)
-* **Descripción:** Triage de alertas SIEM ante un posible compromiso de cuenta (fuerza bruta seguida de éxito desde IP sospechosa), correlación de eventos, análisis cronológico y elaboración de reportes técnicos y ejecutivos.
-* **Ubicación:** 01-Casos de estudio/INFORME DE INCIDENTE DE SEGURIDAD - ORION FINANCIAL GROUP.pdf
+* **Descripción:** Triage de alertas SIEM ante un posible compromiso de cuenta, correlación de eventos y elaboración de reportes técnicos y ejecutivos.
+* **Ubicación (PDF directo):** [`01-Casos de estudio/Orion Financial Group - Informe de Incidente de Seguridad.pdf`](01-Casos%20de%20estudio/Orion%20Financial%20Group%20-%20Informe%20de%20Incidente%20de%20Seguridad.pdf)
+* **Ubicación (Carpeta):** [`01-Casos de estudio/`](01-Casos%20de%20estudio/)
 
 ### 2. Auditoría Interna y Gestión de Riesgos (Botium Toys & NovaTech Solutions)
-* **Descripción:** Evaluación de normativas (PCI DSS, GDPR), aplicación del marco NIST CSF y análisis cualitativo de riesgos bajo NIST SP 800-30 para identificar brechas de seguridad y proponer planes de remediación.
-* **Ubicación:** 01-Casos de estudio 
+* **Descripción:** Evaluación de normativas y análisis cualitativo de riesgos bajo marcos de seguridad.
+* **Ubicaciones:** 
+  * [`Botium Toys`](01-Casos%20de%20estudio/Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+  * [`Novatech Solutions`](01-Casos%20de%20estudio/Novatech%20Solutions%20-%20Auditor%C3%ada%20de%20Seguridad%20Independiente.pdf)
 
 ### 3. Automatización de Control de Accesos con Python
-* **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto, validar listas de control de acceso (`allow_list.txt`) y automatizar la actualización de IPs bloqueadas.
-* **Ubicación:** [`python-automation/`](python-automation/)
+* **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto y validar listas de control de acceso.
+* **Ubicación:** [`02-automatización-python/`](02-automatizaci%C3%B3n-python/)
 
 ### 4. Auditoría de Registros y Accesos con SQL (MariaDB)
-* **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales (`SELECT`, `WHERE`, `AND`, `LIKE`, `%`) sobre registros de autenticación y empleados para detectar anomalías.
-* **Ubicación:** [`03-sql-audits/`](03-sql-audits/)
-
----
+* **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales sobre registros de autenticación.
+* **Ubicación:** [`03-auditorías-sql/`](03-auditor%C3%adas-sql/)
 
 ## 📄 Documentación General
 Para una lectura integral de mi perfil, puedes revisar el documento maestro ubicado en la carpeta de documentación:
-* **[Ver Portafolio de Ciberseguridad Definitivo](04-documentacion-general/)**
+* **[Ver Portafolio Definitivo](04-documentación-general/PORTAFOLIO%20DE%20CIBERSEGURIDAD%20DEFINITIVO.pdf)**
+
 ---
 
 ## 🌐 Contacto
