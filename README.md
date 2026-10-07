@@ -31,7 +31,7 @@ El repositorio se encuentra modularizado para facilitar la revisión técnica de
 
 ### 2. Auditoría Interna y Gestión de Riesgos (Botium Toys & NovaTech Solutions)
 * **Descripción:** Evaluación de normativas (PCI DSS, GDPR), aplicación del marco NIST CSF y análisis cualitativo de riesgos bajo NIST SP 800-30 para identificar brechas de seguridad y proponer planes de remediación.
-* **Ubicación:** [`01-casos-de-estudio/`](01-casos-de-estudio/)
+* **Ubicación:** 01-Casos de estudio 
 
 ### 3. Automatización de Control de Accesos con Python
 * **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto, validar listas de control de acceso (`allow_list.txt`) y automatizar la actualización de IPs bloqueadas.
