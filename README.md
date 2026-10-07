@@ -1,6 +1,7 @@
 # Portafolio Profesional de Ciberseguridad | J.Emmanuel Alvarez Ferreyra 
 
 > **Declaración Profesional**
+
 > Soy Licenciado en Criminalística y completé el Certificado Profesional de Ciberseguridad de Google, orientando actualmente mi desarrollo profesional hacia el área de ciberseguridad. Si bien no ejercí profesionalmente en Criminalística, mi formación universitaria me permitió desarrollar habilidades transferibles como el pensamiento analítico, la observación, la atención al detalle, el análisis basado en evidencias y el seguimiento de procedimientos. 
 > 
 > A través de mi formación en ciberseguridad adquirí conocimientos y práctica en seguridad de redes, análisis de tráfico, detección y respuesta a incidentes, gestión de riesgos, Linux, SQL y Python, además de fundamentos relacionados con herramientas SIEM e IDS. Tengo especial interés en comenzar mi carrera en áreas como Security Operations Center (SOC), análisis de ciberseguridad y seguridad de redes. 
