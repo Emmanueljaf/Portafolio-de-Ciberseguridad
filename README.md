@@ -51,5 +51,6 @@ Para una lectura integral de mi perfil, puedes revisar el documento maestro ubic
 ---
 
 ## 🌐 Contacto
-* **LinkedIn:** [Tu Enlace de LinkedIn]
-* **GitHub:** [Tu Perfil de GitHub]
+* **LinkedIn:** ... en proceso.
+* **GitHub:** [github.com/Emmanueljaf/Portafolio-de-Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
+
