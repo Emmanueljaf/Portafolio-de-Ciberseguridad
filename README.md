@@ -27,7 +27,7 @@ El repositorio se encuentra modularizado para facilitar la revisión técnica de
 
 ### 1. Orion Financial Group (Caso de Estudio SOC L1)
 * **Descripción:** Triage de alertas SIEM ante un posible compromiso de cuenta (fuerza bruta seguida de éxito desde IP sospechosa), correlación de eventos, análisis cronológico y elaboración de reportes técnicos y ejecutivos.
-* **Ubicación:** [01-Casos de estudio/INFORME DE INCIDENTE DE SEGURIDAD - ORION FINANCIAL GROUP.pdf](01-casos-de-estudio/Informe%20de%20Incidente%20de%20Seguridad%20-%20Orion%20Financial%20Group.pdf)
+* **Ubicación:** 01-Casos de estudio/INFORME DE INCIDENTE DE SEGURIDAD - ORION FINANCIAL GROUP.pdf
 
 ### 2. Auditoría Interna y Gestión de Riesgos (Botium Toys & NovaTech Solutions)
 * **Descripción:** Evaluación de normativas (PCI DSS, GDPR), aplicación del marco NIST CSF y análisis cualitativo de riesgos bajo NIST SP 800-30 para identificar brechas de seguridad y proponer planes de remediación.
