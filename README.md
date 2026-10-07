@@ -36,13 +36,13 @@ El repositorio se encuentra modularizado para facilitar la revisión técnica de
 
 ### 3. Automatización de Control de Accesos con Python
 * **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto y validar listas de control de acceso.
-* **Ubicación (PDF del proyecto):** [`02-automatización-python/Proyecto Python.pdf`](02-automatizaci%C3%B3n-python/Proyecto%20Python.pdf)
-* **Ubicación (Carpeta):** [`02-automatización-python/`](02-automatizaci%C3%B3n-python/)
+* **Ubicación (PDF del proyecto):** [`02-python-automation/Proyecto Python.pdf`](02-automatizaci%C3%B3n-python/Proyecto%20Python.pdf)
+* **Ubicación (Carpeta):** [`02-python-automation/`](02-automatizaci%C3%B3n-python/)
 
 ### 4. Auditoría de Registros y Accesos con SQL (MariaDB)
 * **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales sobre registros de autenticación.
-* **Ubicación (PDF del proyecto):** [`03-auditorías-sql/Proyecto SQL.pdf`](03-auditor%C3%adas-sql/Proyecto%20SQL.pdf)
-* **Ubicación (Carpeta):** [`03-auditorías-sql/`](03-auditor%C3%adas-sql/)
+* **Ubicación (PDF del proyecto):** [`03-sql-audits/Proyecto SQL.pdf`](03-auditor%C3%adas-sql/Proyecto%20SQL.pdf)
+* **Ubicación (Carpeta):** [`03-sql-audits/`](03-auditor%C3%adas-sql/)
 ## 📄 Documentación General
 Para una lectura integral de mi perfil, puedes revisar el documento maestro ubicado en la carpeta de documentación
 * **[Ver Portafolio de Ciberseguridad Completo](04-documentación-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)**
