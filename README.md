@@ -14,10 +14,10 @@
 
 El repositorio se encuentra modularizado para facilitar la revisión técnica de cada competencia:
 
-* **`01-casos-de-estudio/`**: Contiene los informes de respuesta a incidentes (Orion Financial) y las auditorías de cumplimiento normativo (Botium Toys, NovaTech).
-* **`02-python-automation/`**: Scripts orientados al SOC para automatización de tareas y control de accesos (`file_updater.py` y listas asociadas).
-* **`03-sql-audits/`**: Consultas y auditorías estructuradas sobre bases de datos relacionales (MariaDB) para detección de anomalías.
-* **`04-documentacion-general/`**: Documento maestro que integra tu perfil profesional, habilidades transferibles de Criminalística y el portafolio definitivo completo.
+* **[`01-Casos de estudio/`](01-Casos%20de%20estudio/)**: Contiene los informes de respuesta a incidentes (Orion Financial) y las auditorías de cumplimiento normativo (Botium Toys, NovaTech).
+* **[`02-python-automation/`](02-python-automation/)**: Scripts orientados al SOC para automatización de tareas y control de accesos (`file_updater.py` y listas asociadas).
+* **[`03-sql-audits/`](03-sql-audits/)**: Consultas y auditorías estructuradas sobre bases de datos relacionales (MariaDB) para detección de anomalías.
+* **[`04-documentacion-general/`](04-documentacion-general/)**: Documento maestro que integra tu perfil profesional, habilidades transferibles de Criminalística y el portafolio definitivo completo.
 
 ---
 
