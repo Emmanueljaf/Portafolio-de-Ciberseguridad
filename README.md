@@ -30,21 +30,23 @@ El repositorio se encuentra modularizado para facilitar la revisión técnica de
 
 ### 2. Auditoría Interna y Gestión de Riesgos (Botium Toys & NovaTech Solutions)
 * **Descripción:** Evaluación de normativas y análisis cualitativo de riesgos bajo marcos de seguridad.
-* **Ubicaciones:** 
-  * [`Botium Toys`](01-Casos%20de%20estudio/Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+* **Ubicaciones de archivos:** 
+  * [`Botium Toys`](01-Casos%20de%20estudio/Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf).
   * [`Novatech Solutions`](01-Casos%20de%20estudio/Novatech%20Solutions%20-%20Auditor%C3%ada%20de%20Seguridad%20Independiente.pdf)
 
 ### 3. Automatización de Control de Accesos con Python
-* **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto y validar listas de control de acceso.
-* **Ubicación:** [`02-automatización-python/`](02-automatizaci%C3%B3n-python/)
+* **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto y validar listas de control de acceso[cite: 4].
+* **Ubicación (PDF del proyecto):** [`02-automatización-python/Proyecto Python.pdf`](02-automatizaci%C3%B3n-python/Proyecto%20Python.pdf)[cite: 4]
+* **Ubicación (Carpeta):** [`02-automatización-python/`](02-automatizaci%C3%B3n-python/)[cite: 4]
 
 ### 4. Auditoría de Registros y Accesos con SQL (MariaDB)
-* **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales sobre registros de autenticación.
-* **Ubicación:** [`03-auditorías-sql/`](03-auditor%C3%adas-sql/)
+* **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales sobre registros de autenticación[cite: 4].
+* **Ubicación (PDF del proyecto):** [`03-auditorías-sql/Proyecto SQL.pdf`](03-auditor%C3%adas-sql/Proyecto%20SQL.pdf)[cite: 4]
+* **Ubicación (Carpeta):** [`03-auditorías-sql/`](03-auditor%C3%adas-sql/)[cite: 4]
 
 ## 📄 Documentación General
-Para una lectura integral de mi perfil, puedes revisar el documento maestro ubicado en la carpeta de documentación:
-* **[Ver Portafolio Definitivo](04-documentación-general/PORTAFOLIO%20DE%20CIBERSEGURIDAD%20DEFINITIVO.pdf)**
+Para una lectura integral de mi perfil, puedes revisar el documento maestro ubicado en la carpeta de documentación[cite: 4]:
+* **[Ver Portafolio de Ciberseguridad Completo](04-documentación-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)**[cite: 4]
 
 ---
 
