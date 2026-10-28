@@ -56,9 +56,9 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 ### 🔎 Evidencias técnicas reales complementarias
 
 - [Captura de pantalla de la prueba de conectividad](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Fasi%2001_conectividad_Captura%20de%20pantalla_.png)
-- [Captura de tráfico ICMP en formato PCAPNG](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng)
+- [Captura de tráfico ICMP en formato .pcapng](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng)
 
-**Nota sobre las evidencias:** el escenario de Orion es simulado. La captura PCAPNG y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
+**Nota sobre las evidencias:** el escenario de Orion es simulado. La captura .pcapng y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
 
 ---
 
@@ -106,7 +106,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - [Fase 4 — Comandos FTP y autenticación](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%204_FTP_comandos_autenticacion.pcapng)
 - [Fase 5 — Consultas DNS](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%205_DNS_Consultas.pcapng)
 
-Los archivos PCAPNG son las capturas originales para su inspección técnica en Wireshark.
+Los archivos .pcapng son las capturas originales para su inspección técnica en Wireshark.
 
 ---
 
