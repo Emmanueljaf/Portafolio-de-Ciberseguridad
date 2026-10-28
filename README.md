@@ -127,7 +127,7 @@ Esta sección reúne los recursos del Proyecto 6, centrado en la auditoría de r
 
 - [**Carpeta de auditorías SQL**](03-auditorías-sql/)
 - [**Proyecto 6 - Auditoria de Registros y Accesos Mediante Consultas SQL (PDF)**](03-auditor%C3%ADas-sql/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
-- [Consultas de seguridad — `consultas_seguridad.sql`](03-auditor%C3%ADas-sql/consultas_seguridad.sql)
+- [Consultas de seguridad — `consultas_seguridad.sql`](03-sql-audits/consultas_seguridad.sql)
 
 ---
 
