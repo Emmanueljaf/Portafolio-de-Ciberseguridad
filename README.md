@@ -116,7 +116,7 @@ Esta sección contiene los recursos del Proyecto 5, orientado a la automatizaci�
 
 - [**Carpeta de automatización con Python**](02-automatización-python/)
 - [**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python (PDF)**](02-automatización-python/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
-- [Script de actualización de archivos — `file_updater.py`](02-automatización-python/file_updater.py)
+- [Script de actualización de archivos — `file_updater.py`](02-python-automation/file_updater.py)
 - [Lista de acceso — `allow_list.txt.txt`](02-automatización-python/allow_list.txt.txt)
 
 ---
