@@ -115,7 +115,7 @@ Los archivos .pcapng son las capturas originales para su inspección técnica en
 Esta sección reúne los recursos del proyecto de automatización y control de listas de acceso.
 
 - [Carpeta de automatización con Python](02-python-automation/)
-- [Proyecto Python](02-python-automation/Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf)
+- [Proyecto Python] (02-python-automation/Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf)
 - [Script de actualización de archivos](02-python-automation/file_updater.py)
 - [Lista de acceso](02-python-automation/allow_list.txt.txt)
 
