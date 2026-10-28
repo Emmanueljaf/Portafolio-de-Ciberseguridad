@@ -23,7 +23,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 # 🚀 Proyectos destacados
 
-## 🛡️ Proyecto 1 — Orion Financial Group
+## 🛡️ Proyecto 1 - Orion Financial Group
 
 **Detección, triage y escalamiento de posible compromiso de cuenta**
 
@@ -62,7 +62,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ---
 
-## 🔐 Proyecto 2 — Auditoría interna de seguridad y cumplimiento
+## 🔐 Proyecto 2 - Auditoría interna de seguridad y cumplimiento
 
 **Botium Toys**
 
@@ -75,7 +75,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ---
 
-## 📊 Proyecto 3 — Evaluación de riesgos y controles de infraestructura
+## 📊 Proyecto 3 - Evaluación de riesgos y controles de infraestructura
 
 **NovaTech Solutions**
 
@@ -88,7 +88,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ---
 
-## 🌐 Proyecto 4 — Análisis de tráfico de red con Wireshark
+## 🌐 Proyecto 4 - Análisis de tráfico de red con Wireshark
 
 - **Rol simulado:** Network Security Analyst / Packet Inspector.
 - **Entorno:** laboratorio virtualizado y aislado con Kali Linux y Metasploitable 2.
