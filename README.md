@@ -22,12 +22,12 @@ Los escenarios simulados se identifican como tales y se mantienen diferenciados 
 
 ## 📂 Acceso Directo a los Proyectos
 
-- 🛡️ **[Proyecto 1 — Orion Financial Group: Gestión, investigación y escalamiento de un incidente de seguridad](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)**
-- 🔐 **[Proyecto 2 — Auditoría interna de seguridad: Botium Toys](01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)**
-- 📊 **[Proyecto 3 — Evaluación de riesgos y controles de infraestructura: NovaTech Solutions](01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)**
-- 🌐 **[Proyecto 4 — Análisis de tráfico de red con Wireshark](01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)**
-- 🐍 **[Proyecto 5 — Automatización de tareas de ciberseguridad con Python](02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)**
-- 🗄️ **[Proyecto 6 — Auditoría de registros y accesos mediante consultas SQL](03-sql-audits/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)**
+- 🛡️ [**Proyecto 1 — Orion Financial Group: Gestión, investigación y escalamiento de un incidente de seguridad**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
+- 🔐 [**Proyecto 2 — Auditoría interna de seguridad: Botium Toys**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+- 📊 [**Proyecto 3 — Evaluación de riesgos y controles de infraestructura: NovaTech Solutions**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)
+- 🌐 [**Proyecto 4 — Análisis de tráfico de red con Wireshark**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)
+- 🐍 [**Proyecto 5 — Automatización de tareas de ciberseguridad con Python**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
+- 🗄️ [**Proyecto 6 — Auditoría de registros y accesos mediante consultas SQL**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
 ---
 
 # 📂 Estructura del repositorio
