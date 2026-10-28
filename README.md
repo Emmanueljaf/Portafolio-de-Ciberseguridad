@@ -150,22 +150,12 @@ Este proyecto reúne documentación y consultas SQL relacionadas con la auditor�
 
 - [**Consultas de seguridad —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)[**`consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
 
-
----
-
-## 🎯 Objetivo del repositorio
-
-Este repositorio reúne proyectos prácticos desarrollados durante mi formación en ciberseguridad. Incluye informes, documentación técnica, scripts, datos de trabajo y capturas de tráfico de red que permiten revisar los procedimientos y resultados documentados.
-
-Los escenarios simulados se identifican como tales y se mantienen diferenciados de las evidencias obtenidas en prácticas técnicas reales.
-
 ---
 
 ## 🌐 Contacto
 
 - **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
 - **LinkedIn:** [https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/](https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/)
-
-
+- **WhatsApp:** [Contactarme por WhatsApp](https://wa.me/5493624170398)
  
 
