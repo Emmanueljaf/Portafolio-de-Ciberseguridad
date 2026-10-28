@@ -10,47 +10,144 @@
 
 ---
 
-## 📂 Estructura del Repositorio
+## 📂 Estructura del repositorio
 
-El repositorio se encuentra modularizado para facilitar la revisión técnica de cada competencia:
+El repositorio está organizado por áreas de trabajo para facilitar la revisión de los proyectos, su documentación y los archivos técnicos asociados.
 
-* **[`01-Casos de estudio/`](01-Casos%20de%20estudio/)**: Contiene los informes de respuesta a incidentes (Orion Financial) y las auditorías de cumplimiento normativo (Botium Toys, NovaTech).
-* **[`02-python-automation/`](02-python-automation/)**: Scripts orientados al SOC para automatización de tareas y control de accesos (`file_updater.py` y listas asociadas).
-* **[`03-sql-audits/`](03-sql-audits/)**: Consultas y auditorías estructuradas sobre bases de datos relacionales (MariaDB) para detección de anomalías.
-* **[`04-documentacion-general/`](04-documentacion-general/)**: Documento maestro que integra tu perfil profesional, habilidades transferibles de Criminalística y el portafolio definitivo completo.
+- [**01-Casos de estudio**](01-Casos%20de%20estudio/): proyectos de respuesta a incidentes, análisis de tráfico de red y auditorías de seguridad.
+- [**02-python-automation**](02-python-automation/): automatización mediante Python y control de listas de acceso.
+- [**03-sql-audits**](03-sql-audits/): consultas SQL y ejercicios de auditoría de registros y accesos.
+- [**04-documentacion-general**](04-documentacion-general/): portafolio de ciberseguridad completo y documentación general.
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos destacados
 
-### 1. Orion Financial Group (Caso de Estudio SOC L1)
-* **Descripción:** Triage de alertas SIEM ante un posible compromiso de cuenta, correlación de eventos y elaboración de reportes técnicos y ejecutivos.
-* **Ubicación (PDF directo):** [`01-Casos de estudio/Orion Financial Group - Informe de Incidente de Seguridad.pdf`](01-Casos%20de%20estudio/Orion%20Financial%20Group%20-%20Informe%20de%20Incidente%20de%20Seguridad.pdf)
-* **Ubicación (Carpeta):** [`01-Casos de estudio/`](01-Casos%20de%20estudio/)
+## 🛡️ Proyecto 1 — Orion Financial Group
 
-### 2. Auditoría Interna y Gestión de Riesgos (Botium Toys & NovaTech Solutions)
-* **Descripción:** Evaluación de normativas y análisis cualitativo de riesgos bajo marcos de seguridad.
-* **Ubicaciones de archivos:** 
-  * [`Botium Toys`](01-Casos%20de%20estudio/Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
-  * [`Novatech Solutions`](01-Casos%20de%20estudio/Novatech%20Solutions%20-%20Auditor%C3%ada%20de%20Seguridad%20Independiente.pdf)
+**Detección, triage y escalamiento de posible compromiso de cuenta**
 
-### 3. Automatización de Control de Accesos con Python
-* **Descripción:** Desarrollo de script en Python (`file_updater.py`) para procesar archivos de texto y validar listas de control de acceso.
-* **Ubicación (PDF del proyecto):** [`02-python-automation/Proyecto Python.pdf`](02-python-automation/Proyecto%20Python.pdf)
-* **Ubicación (Carpeta):** [`02-python-automation/`](02-python-automation/)
+- **Rol simulado:** SOC Analyst L1.
+- **Organización simulada:** Orion Financial Group, sector financiero.
+- **Objetivo:** analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.
 
-### 4. Auditoría de Registros y Accesos con SQL (MariaDB)
-* **Descripción:** Ejecución de consultas avanzadas y filtrados condicionales sobre registros de autenticación.
-* **Ubicación (PDF del proyecto):** [`03-sql-audits/Proyecto SQL.pdf`](03-sql-audits/Proyecto%20SQL.pdf)
-* **Ubicación (Carpeta):** [`03-sql-audits/`](03-sql-audits/)
+### 📄 Informe y respaldo técnico
 
-## 📄 Documentación General
-Para una lectura integral de mi perfil, puedes revisar el documento maestro ubicado en la carpeta de documentación:
-* **[Ver Portafolio de Ciberseguridad Completo](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)**
+- [**Respaldo técnico completo del Proyecto 1 (PDF)**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
+
+### 📁 Datos del caso
+
+- [Eventos simulados en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/eventos_orion_simulados.csv)
+- [Hallazgos iniciales en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/hallazgos_iniciales.csv)
+- [Inventario de evidencias en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/inventario_evidencias.csv)
+
+### 📝 Documentación técnica
+
+- [Actualización del incidente](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/actualizacion_incidente.md)
+- [Informe de escalamiento SOC L1 a SOC L2](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/informe_escalamiento_soc_l1_l2.md)
+- [Plan de respuesta al incidente](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/plan_respuesta_incidente.md)
+
+### 🐍 Scripts de análisis en Python
+
+- [Analizar eventos](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos.py)
+- [Analizar eventos: versión ampliada](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos_ampliado.py)
+- [Evaluar riesgos](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/evaluar_riesgos.py)
+
+### 🔎 Evidencias técnicas reales complementarias
+
+- [Captura de pantalla de la prueba de conectividad](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Fasi%2001_conectividad_Captura%20de%20pantalla_.png)
+- [Captura de tráfico ICMP en formato PCAPNG](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng)
+
+**Nota sobre las evidencias:** el escenario de Orion es simulado. La captura PCAPNG y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
+
+---
+
+## 🔐 Proyecto 2 — Auditoría interna de seguridad y cumplimiento
+
+**Botium Toys**
+
+- **Rol simulado:** IT Security Auditor / Compliance Analyst.
+- **Objetivo:** evaluar controles de seguridad, riesgos y aspectos relacionados con el cumplimiento normativo.
+
+### 📄 Informe del proyecto
+
+- [**Informe de auditoría interna de seguridad — Botium Toys (PDF)**](01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+
+---
+
+## 📊 Proyecto 3 — Evaluación de riesgos y controles de infraestructura
+
+**NovaTech Solutions**
+
+- **Rol simulado:** Junior Risk Analyst / Information Security Evaluator.
+- **Objetivo:** identificar y priorizar riesgos de infraestructura, analizar vulnerabilidades y proponer medidas de mitigación.
+
+### 📄 Informe del proyecto
+
+- [**Auditoría de seguridad independiente — NovaTech Solutions (PDF)**](01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)
+
+---
+
+## 🌐 Proyecto 4 — Análisis de tráfico de red con Wireshark
+
+- **Rol simulado:** Network Security Analyst / Packet Inspector.
+- **Entorno:** laboratorio virtualizado y aislado con Kali Linux y Metasploitable 2.
+- **Objetivo:** identificar protocolos, observar comunicaciones de red y analizar las respuestas obtenidas.
+
+### 📄 Informe del proyecto
+
+- [**Análisis de tráfico de red con Wireshark (PDF)**](01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)
+
+### 📦 Capturas de tráfico originales
+
+- [Fase 1 — Conectividad ICMP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%201_conectividad_ICMP.pcapng)
+- [Fase 2 — Inspección HTTP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%202_HTTP_Inspeccion.pcapng)
+- [Fase 3 — Identificación del servicio FTP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%203_%20FTP_indentificacion_servicio..pcapng)
+- [Fase 4 — Comandos FTP y autenticación](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%204_FTP_comandos_autenticacion.pcapng)
+- [Fase 5 — Consultas DNS](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%205_DNS_Consultas.pcapng)
+
+Los archivos PCAPNG son las capturas originales para su inspección técnica en Wireshark.
+
+---
+
+# 🐍 Automatización con Python
+
+Esta sección reúne los recursos del proyecto de automatización y control de listas de acceso.
+
+- [Carpeta de automatización con Python](02-python-automation/)
+- [PDF del proyecto Python](02-python-automation/Proyecto%20Python.pdf)
+- [Script de actualización de archivos](02-python-automation/file_updater.py)
+- [Lista de acceso](02-python-automation/allow_list.txt.txt)
+
+---
+
+# 🗄️ Auditorías y consultas SQL
+
+Esta sección contiene recursos relacionados con consultas SQL y auditoría de registros y accesos.
+
+- [Carpeta de auditorías SQL](03-sql-audits/)
+- [PDF del proyecto SQL](03-sql-audits/Proyecto%20SQL.pdf)
+- [Consultas de seguridad](03-sql-audits/consultas_seguridad.sql)
+
+---
+
+# 📚 Documentación general
+
+- [Carpeta de documentación general](04-documentacion-general/)
+- [**Portafolio de Ciberseguridad Completo (PDF)**](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
+
+---
+
+## 🎯 Objetivo del repositorio
+
+Este repositorio reúne proyectos prácticos desarrollados durante mi formación en ciberseguridad. Incluye informes, documentación técnica, scripts, datos de trabajo y capturas de tráfico de red que permiten revisar los procedimientos y resultados documentados.
+
+Los escenarios simulados se identifican como tales y se mantienen diferenciados de las evidencias obtenidas en prácticas técnicas reales.
 
 ---
 
 ## 🌐 Contacto
-* **LinkedIn:** ... en proceso.
-* **GitHub:** [github.com/Emmanueljaf/Portafolio-de-Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
+
+- **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
+- **LinkedIn:** en preparación.
 
