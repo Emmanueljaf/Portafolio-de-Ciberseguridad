@@ -110,24 +110,24 @@ Los archivos .pcapng son las capturas originales para su inspección técnica en
 
 ---
 
-# 🐍 Automatización con Python
+## 🐍 Automatización con Python
 
-Esta sección reúne los recursos del proyecto de automatización y control de listas de acceso.
+Esta sección contiene los recursos del Proyecto 5, orientado a la automatización de tareas de ciberseguridad y al control de listas de acceso.
 
-- [Carpeta de automatización con Python](02-python-automation/)
-- [Proyecto Python](02-python-automation/Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf) 
-- [Script de actualización de archivos](02-python-automation/file_updater.py)
-- [Lista de acceso](02-python-automation/allow_list.txt.txt)
+- [**Carpeta de automatización con Python**](02-automatización-python/)
+- [**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python (PDF)**](02-automatización-python/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
+- [Script de actualización de archivos — `file_updater.py`](02-automatización-python/file_updater.py)
+- [Lista de acceso — `allow_list.txt.txt`](02-automatización-python/allow_list.txt.txt)
 
 ---
 
-# 🗄️ Auditorías y consultas SQL
+## 🗄️ Auditorías y consultas SQL
 
-Esta sección contiene recursos relacionados con consultas SQL y auditoría de registros y accesos.
+Esta sección reúne los recursos del Proyecto 6, centrado en la auditoría de registros y accesos mediante consultas SQL.
 
-- [Carpeta de auditorías SQL](03-sql-audits/)
-- [PDF del proyecto SQL](03-sql-audits/Proyecto%20SQL.pdf)
-- [Consultas de seguridad](03-sql-audits/consultas_seguridad.sql)
+- [**Carpeta de auditorías SQL**](03-auditorías-sql/)
+- [**Proyecto 6 - Auditoria de Registros y Accesos Mediante Consultas SQL (PDF)**](03-auditor%C3%ADas-sql/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
+- [Consultas de seguridad — `consultas_seguridad.sql`](03-auditor%C3%ADas-sql/consultas_seguridad.sql)
 
 ---
 
