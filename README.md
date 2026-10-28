@@ -152,7 +152,7 @@ Este proyecto reúne documentación y consultas SQL relacionadas con la auditor�
 
 ---
 
-## 🌐 Contacto
+# 🌐 Contacto
 
 - **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
 - **LinkedIn:** [https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/](https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/)
