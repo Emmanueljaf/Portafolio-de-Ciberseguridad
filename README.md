@@ -33,7 +33,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ### 📄 Informe y respaldo técnico
 
-- [**Respaldo técnico completo del Proyecto 1 (PDF)**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
+- [**Proyecto 1 - Gestion, Investigacion y Escalamiento de un Incidente de Seguridad - Respaldo Tecnico**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
 
 ### 📁 Datos del caso
 
@@ -71,7 +71,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ### 📄 Informe del proyecto
 
-- [**Informe de auditoría interna de seguridad — Botium Toys (PDF)**](01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+- [**Proyecto 2 - Botiom Toys- Informe de Auditoria Interna de Seguridad**](01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
 
 ---
 
@@ -84,7 +84,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ### 📄 Informe del proyecto
 
-- [**Auditoría de seguridad independiente — NovaTech Solutions (PDF)**](01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)
+- [**Proyecto 3 - Novatech Solutions - Auditoria de Seguridad Independiente**](01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)
 
 ---
 
@@ -96,7 +96,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ### 📄 Informe del proyecto
 
-- [**Análisis de tráfico de red con Wireshark (PDF)**](01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)
+- [**Proyecto 4 - Analisis de Trafico de Red con Wireshark**](01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)
 
 ### 📦 Capturas de tráfico originales
 
@@ -150,4 +150,20 @@ Los escenarios simulados se identifican como tales y se mantienen diferenciados 
 
 - **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
 - **LinkedIn:** en preparación.
+
+
+### 📄 Informe del proyecto
+
+
+
+### 📄 Informe del proyecto
+
+
+
+### 📄 Informe del proyecto
+
+
+
+### 📄 Informe del proyecto
+
 
