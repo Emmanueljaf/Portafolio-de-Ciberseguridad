@@ -1,0 +1,12 @@
+timestamp,event_type,account,source_ip,result,resource,details
+09:54,authentication,cfernandez,185.220.101.44,FAILED,login,Intento fallido simulado
+09:55,authentication,cfernandez,185.220.101.44,FAILED,login,Intento fallido simulado
+09:56,authentication,cfernandez,185.220.101.44,FAILED,login,Intento fallido simulado
+09:57,authentication,cfernandez,185.220.101.44,FAILED,login,Intento fallido simulado
+09:58,authentication,cfernandez,185.220.101.44,FAILED,login,Intento fallido simulado
+09:59,authentication,cfernandez,185.220.101.44,SUCCESS,login,Autenticacion exitosa simulada
+10:03,storage_access,cfernandez,185.220.101.44,SUCCESS,corporate_storage,Acceso al almacenamiento simulado
+10:06,file_download,cfernandez,185.220.101.44,SUCCESS,clientes_Q3.xlsx,Descarga simulada
+10:08,file_download,cfernandez,185.220.101.44,SUCCESS,contratos_clientes.zip,Descarga simulada
+10:10,resource_access,cfernandez,185.220.101.44,DENIED,Finance-Shared,Acceso denegado simulado
+10:12,siem_alert,cfernandez,185.220.101.44,ALERT,multiple_failed_logins,Alerta generada en el escenario ficticio
