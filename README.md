@@ -10,10 +10,15 @@
 
 ---
 
-# 📘 Portafolio completo definitivo
+🎯 **Objetivo del repositorio**
+
+Este repositorio reúne proyectos prácticos desarrollados durante mi formación en ciberseguridad. Incluye informes, documentación técnica, scripts, datos de trabajo y capturas de tráfico de red que permiten revisar los procedimientos y resultados documentados.
+
+Los escenarios simulados se identifican como tales y se mantienen diferenciados de las evidencias obtenidas en prácticas técnicas reales.
+
+📘 **Portafolio Completo** 
 
 El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
-
 ### 📄 [Abrir Portafolio de Ciberseguridad Completo - PDF](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
 
 ---
