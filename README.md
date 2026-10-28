@@ -139,11 +139,12 @@ Este proyecto reúne documentación y consultas SQL relacionadas con la auditor�
 
 ### 📄 Informe del proyecto
 
-**Pendiente:** incorporar el enlace directo al PDF con el nombre actualizado.
+[**Proyecto 6 - Auditoria de Registros y Accesos Mediante Consultas SQL.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
 
 ### 🛠️ Archivos del proyecto
 
 - [**Consultas de seguridad —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)[**`consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
+
 
 ---
 
