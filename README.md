@@ -56,7 +56,9 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 <li><strong>Objetivo:</strong> analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.</li>
 </ul>
 
-<h3>📄 Informe del proyecto</h3> <a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
+### 📄 Informe del proyecto
+
+[**Abrir informe PDF**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf) <a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="ABRIR PDF"></a>
 
 <h3>📁 Datos del caso</h3>
 
