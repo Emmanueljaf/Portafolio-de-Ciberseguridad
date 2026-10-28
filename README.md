@@ -1,16 +1,24 @@
-# Portafolio Profesional de Ciberseguridad | J.Emmanuel Alvarez Ferreyra 
+# 🛡️ Portafolio Profesional de Ciberseguridad | J.Emmanuel Alvarez Ferreyra
 
 > **Declaración Profesional**
-
-> Soy Licenciado en Criminalística y completé el Certificado Profesional de Ciberseguridad de Google, orientando actualmente mi desarrollo profesional hacia el área de ciberseguridad. Si bien no ejercí profesionalmente en Criminalística, mi formación universitaria me permitió desarrollar habilidades transferibles como el pensamiento analítico, la observación, la atención al detalle, el análisis basado en evidencias y el seguimiento de procedimientos. 
-> 
-> A través de mi formación en ciberseguridad adquirí conocimientos y práctica en seguridad de redes, análisis de tráfico, detección y respuesta a incidentes, gestión de riesgos, Linux, SQL y Python, además de fundamentos relacionados con herramientas SIEM e IDS. Tengo especial interés en comenzar mi carrera en áreas como Security Operations Center (SOC), análisis de ciberseguridad y seguridad de redes. 
-> 
+>
+> Soy Licenciado en Criminalística y completé el Certificado Profesional de Ciberseguridad de Google, orientando actualmente mi desarrollo profesional hacia el área de ciberseguridad. Si bien no ejercí profesionalmente en Criminalística, mi formación universitaria me permitió desarrollar habilidades transferibles como el pensamiento analítico, la observación, la atención al detalle, el análisis basado en evidencias y el seguimiento de procedimientos.
+>
+> A través de mi formación en ciberseguridad adquirí conocimientos y práctica en seguridad de redes, análisis de tráfico, detección y respuesta a incidentes, gestión de riesgos, Linux, SQL y Python, además de fundamentos relacionados con herramientas SIEM e IDS. Tengo especial interés en comenzar mi carrera en áreas como Security Operations Center (SOC), análisis de ciberseguridad y seguridad de redes.
+>
 > Me caracterizo por ser responsable, autodidacta y comprometido con el aprendizaje continuo. Busco mi primera oportunidad profesional en ciberseguridad, donde pueda aplicar y seguir desarrollando mis conocimientos, trabajar de manera metódica frente a incidentes y contribuir a la protección de sistemas, datos y activos digitales de una organización.
 
 ---
 
-## 📂 Estructura del repositorio
+# 📘 Portafolio completo definitivo
+
+El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
+
+### 📄 [Abrir Portafolio de Ciberseguridad Completo - PDF](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
+
+---
+
+# 📂 Estructura del repositorio
 
 El repositorio está organizado por áreas de trabajo para facilitar la revisión de los proyectos, su documentación y los archivos técnicos asociados.
 
@@ -19,7 +27,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - [**03-sql-audits**](03-sql-audits/): consultas SQL y ejercicios de auditoría de registros y accesos.
 - [**04-documentacion-general**](04-documentacion-general/): portafolio de ciberseguridad completo y documentación general.
 
----
+
 
 # 🚀 Proyectos destacados
 
@@ -31,7 +39,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - **Organización simulada:** Orion Financial Group, sector financiero.
 - **Objetivo:** analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.
 
-### 📄 Informe del Proyecto 
+### 📄 Informe del proyecto
 
 - [**Proyecto 1 - Gestion, Investigacion y Escalamiento de un Incidente de Seguridad - Respaldo Tecnico**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
 
@@ -58,11 +66,11 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - [Captura de pantalla de la prueba de conectividad](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Fasi%2001_conectividad_Captura%20de%20pantalla_.png)
 - [Captura de tráfico ICMP en formato .pcapng](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng)
 
-**Nota sobre las evidencias:** el escenario de Orion es simulado. La captura .pcapng y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
+> **Nota sobre las evidencias:** el escenario de Orion es simulado. La captura .pcapng y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
 
 ---
 
-## 🔐 Proyecto 2 - Auditoría interna de seguridad y cumplimiento
+## 🔐 Proyecto 2 — Auditoría interna de seguridad y cumplimiento
 
 **Botium Toys**
 
@@ -75,7 +83,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ---
 
-## 📊 Proyecto 3 - Evaluación de riesgos y controles de infraestructura
+## 📊 Proyecto 3 — Evaluación de riesgos y controles de infraestructura
 
 **NovaTech Solutions**
 
@@ -88,7 +96,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 ---
 
-## 🌐 Proyecto 4 - Análisis de tráfico de red con Wireshark
+## 🌐 Proyecto 4 — Análisis de tráfico de red con Wireshark
 
 - **Rol simulado:** Network Security Analyst / Packet Inspector.
 - **Entorno:** laboratorio virtualizado y aislado con Kali Linux y Metasploitable 2.
@@ -110,35 +118,32 @@ Los archivos .pcapng son las capturas originales para su inspección técnica en
 
 ---
 
-## 🐍 Proyecto de automatización con Python
+# 🐍 Proyecto de automatización con Python
 
 Este proyecto reúne recursos de automatización mediante Python, orientados al control de listas de acceso y a la actualización de archivos.
 
 ### 📄 Informe del proyecto
-- [**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
+
+[**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
 
 ### 🛠️ Archivos del proyecto
-- [**Script de actualización de archivos — `file_updater.py`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)
-- [**Lista de acceso — `allow_list.txt.txt`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)
+
+- [**Script de actualización de archivos —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)[**`file_updater.py`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)
+- [**Lista de acceso —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)[**`allow_list.txt.txt`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)
 
 ---
 
-## 🗄️ Proyecto de auditoría y consultas SQL
+# 🗄️ Proyecto de auditoría y consultas SQL
 
 Este proyecto reúne documentación y consultas SQL relacionadas con la auditoría de registros y accesos en bases de datos relacionales.
 
 ### 📄 Informe del proyecto
-- **Proyecto SQL:** reemplazar este enlace por el nombre exacto del PDF que tenés actualmente en `03-sql-audits`.
+
+**Pendiente:** incorporar el enlace directo al PDF con el nombre actualizado.
 
 ### 🛠️ Archivos del proyecto
-- [**Consultas de seguridad — `consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
 
----
-
-# 📚 Documentación general
-
-- [Carpeta de documentación general](04-documentacion-general/)
-- [**Portafolio de Ciberseguridad Completo (PDF)**](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
+- [**Consultas de seguridad —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)[**`consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
 
 ---
 
@@ -153,7 +158,8 @@ Los escenarios simulados se identifican como tales y se mantienen diferenciados 
 ## 🌐 Contacto
 
 - **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
-- **LinkedIn:** https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/
+- **LinkedIn:** [https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/](https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/)
+
 
  
 
