@@ -42,122 +42,145 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 
 
 
-# 🚀 Proyectos destacados
+<h1>🚀 Proyectos destacados</h1>
 
-## 🛡️ Proyecto 1 - Orion Financial Group
+<hr>
 
-**Detección, triage y escalamiento de posible compromiso de cuenta**
+<h2>🛡️ Proyecto 1 — Orion Financial Group</h2>
 
-- **Rol simulado:** SOC Analyst L1.
-- **Organización simulada:** Orion Financial Group, sector financiero.
-- **Objetivo:** analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.
+<p><strong>Detección, triage y escalamiento de posible compromiso de cuenta</strong></p>
 
-### 📄 Informe del proyecto
+<ul>
+<li><strong>Rol simulado:</strong> SOC Analyst L1.</li>
+<li><strong>Organización simulada:</strong> Orion Financial Group, sector financiero.</li>
+<li><strong>Objetivo:</strong> analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.</li>
+</ul>
 
-- [**Proyecto 1 - Gestion, Investigacion y Escalamiento de un Incidente de Seguridad - Respaldo Tecnico**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
+<h3>📄 Informe del proyecto</h3>
 
-### 📁 Datos del caso
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-- [Eventos simulados en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/eventos_orion_simulados.csv)
-- [Hallazgos iniciales en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/hallazgos_iniciales.csv)
-- [Inventario de evidencias en CSV](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/inventario_evidencias.csv)
+<h3>📁 Datos del caso</h3>
 
-### 📝 Documentación técnica
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/eventos_orion_simulados.csv">Eventos simulados en CSV</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/hallazgos_iniciales.csv">Hallazgos iniciales en CSV</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/datos/inventario_evidencias.csv">Inventario de evidencias en CSV</a></li>
+</ul>
 
-- [Actualización del incidente](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/actualizacion_incidente.md)
-- [Informe de escalamiento SOC L1 a SOC L2](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/informe_escalamiento_soc_l1_l2.md)
-- [Plan de respuesta al incidente](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/plan_respuesta_incidente.md)
+<h3>📝 Documentación técnica</h3>
 
-### 🐍 Scripts de análisis en Python
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/actualizacion_incidente.md">Actualización del incidente</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/informe_escalamiento_soc_l1_l2.md">Informe de escalamiento SOC L1 a SOC L2</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/documentacion/plan_respuesta_incidente.md">Plan de respuesta al incidente</a></li>
+</ul>
 
-- [Analizar eventos](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos.py)
-- [Analizar eventos: versión ampliada](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos_ampliado.py)
-- [Evaluar riesgos](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/evaluar_riesgos.py)
+<h3>🐍 Scripts de análisis en Python</h3>
 
-### 🔎 Evidencias técnicas reales complementarias
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos.py">Analizar eventos</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/analizar_eventos_ampliado.py">Analizar eventos: versión ampliada</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/scripts/evaluar_riesgos.py">Evaluar riesgos</a></li>
+</ul>
 
-- [Captura de pantalla de la prueba de conectividad](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Fasi%2001_conectividad_Captura%20de%20pantalla_.png)
-- [Captura de tráfico ICMP en formato .pcapng](01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng)
+<h3>🔎 Evidencias técnicas reales complementarias</h3>
 
-> **Nota sobre las evidencias:** el escenario de Orion es simulado. La captura .pcapng y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Fasi%2001_conectividad_Captura%20de%20pantalla_.png">Captura de pantalla de la prueba de conectividad</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%201%20-%20Orion%20Financial%20Group/evidencias/reales/Proyecto08B_Fase01_Conectividad_ICMP.pcapng">Captura de tráfico ICMP (.pcapng)</a></li>
+</ul>
 
----
+<blockquote><strong>Nota sobre las evidencias:</strong> el escenario de Orion es simulado. La captura .pcapng y su imagen corresponden a una práctica real de conectividad de red y se conservan separadas del caso simulado. No constituyen una validación independiente de los eventos ficticios de Orion.</blockquote>
 
-## 🔐 Proyecto 2 — Auditoría interna de seguridad y cumplimiento
+<hr>
 
-**Botium Toys**
+<h2>🔐 Proyecto 2 — Auditoría interna de seguridad y cumplimiento</h2>
 
-- **Rol simulado:** IT Security Auditor / Compliance Analyst.
-- **Objetivo:** evaluar controles de seguridad, riesgos y aspectos relacionados con el cumplimiento normativo.
+<p><strong>Organización:</strong> Botium Toys.</p>
 
-### 📄 Informe del proyecto
+<ul>
+<li><strong>Rol simulado:</strong> IT Security Auditor / Compliance Analyst.</li>
+<li><strong>Objetivo:</strong> evaluar controles de seguridad, riesgos y aspectos relacionados con el cumplimiento normativo.</li>
+</ul>
 
-- [**Proyecto 2 - Botiom Toys- Informe de Auditoria Interna de Seguridad**](01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf)
+<h3>📄 Informe del proyecto</h3>
 
----
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%202%20-%20Botiom%20Toys-%20Informe%20de%20Auditoria%20Interna%20de%20Seguridad.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-## 📊 Proyecto 3 — Evaluación de riesgos y controles de infraestructura
+<hr>
 
-**NovaTech Solutions**
+<h2>📊 Proyecto 3 — Evaluación de riesgos y controles de infraestructura</h2>
 
-- **Rol simulado:** Junior Risk Analyst / Information Security Evaluator.
-- **Objetivo:** identificar y priorizar riesgos de infraestructura, analizar vulnerabilidades y proponer medidas de mitigación.
+<p><strong>Organización:</strong> NovaTech Solutions.</p>
 
-### 📄 Informe del proyecto
+<ul>
+<li><strong>Rol simulado:</strong> Junior Risk Analyst / Information Security Evaluator.</li>
+<li><strong>Objetivo:</strong> identificar y priorizar riesgos de infraestructura, analizar vulnerabilidades y proponer medidas de mitigación.</li>
+</ul>
 
-- [**Proyecto 3 - Novatech Solutions - Auditoria de Seguridad Independiente**](01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf)
+<h3>📄 Informe del proyecto</h3>
 
----
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%203%20-%20Novatech%20Solutions%20-%20Auditoria%20de%20Seguridad%20Independiente.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-## 🌐 Proyecto 4 — Análisis de tráfico de red con Wireshark
+<hr>
 
-- **Rol simulado:** Network Security Analyst / Packet Inspector.
-- **Entorno:** laboratorio virtualizado y aislado con Kali Linux y Metasploitable 2.
-- **Objetivo:** identificar protocolos, observar comunicaciones de red y analizar las respuestas obtenidas.
+<h2>🌐 Proyecto 4 — Análisis de tráfico de red con Wireshark</h2>
 
-### 📄 Informe del proyecto
+<ul>
+<li><strong>Rol simulado:</strong> Network Security Analyst / Packet Inspector.</li>
+<li><strong>Entorno:</strong> laboratorio virtualizado y aislado con Kali Linux y Metasploitable 2.</li>
+<li><strong>Objetivo:</strong> identificar protocolos, observar comunicaciones de red y analizar las respuestas obtenidas.</li>
+</ul>
 
-- [**Proyecto 4 - Analisis de Trafico de Red con Wireshark**](01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf)
+<h3>📄 Informe del proyecto</h3>
 
-### 📦 Capturas de tráfico originales
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Analisis%20de%20Trafico%20de%20Red%20con%20Wireshark.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-- [Fase 1 — Conectividad ICMP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%201_conectividad_ICMP.pcapng)
-- [Fase 2 — Inspección HTTP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%202_HTTP_Inspeccion.pcapng)
-- [Fase 3 — Identificación del servicio FTP](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%203_%20FTP_indentificacion_servicio..pcapng)
-- [Fase 4 — Comandos FTP y autenticación](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%204_FTP_comandos_autenticacion.pcapng)
-- [Fase 5 — Consultas DNS](01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%205_DNS_Consultas.pcapng)
+<h3>📦 Capturas de tráfico originales</h3>
 
-Los archivos .pcapng son las capturas originales para su inspección técnica en Wireshark.
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%201_conectividad_ICMP.pcapng">Fase 1 — Conectividad ICMP</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%202_HTTP_Inspeccion.pcapng">Fase 2 — Inspección HTTP</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%203_%20FTP_indentificacion_servicio..pcapng">Fase 3 — Identificación del servicio FTP</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%204_FTP_comandos_autenticacion.pcapng">Fase 4 — Comandos FTP y autenticación</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/01-Casos%20de%20estudio/Proyecto%204%20-%20Capturas/Fase%205_DNS_Consultas.pcapng">Fase 5 — Consultas DNS</a></li>
+</ul>
 
----
+<p>Los archivos .pcapng son las capturas originales para su inspección técnica en Wireshark.</p>
 
-# 🐍 Proyecto de automatización con Python
+<hr>
 
-Este proyecto reúne recursos de automatización mediante Python, orientados al control de listas de acceso y a la actualización de archivos.
+<h2>🐍 Proyecto 5 — Automatización de tareas de ciberseguridad con Python</h2>
 
-### 📄 Informe del proyecto
+<p>Este proyecto reúne recursos de automatización mediante Python, orientados al control de listas de acceso y a la actualización de archivos.</p>
 
-[**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
+<h3>📄 Informe del proyecto</h3>
 
-### 🛠️ Archivos del proyecto
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-- [**Script de actualización de archivos —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)[**`file_updater.py`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)
-- [**Lista de acceso —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)[**`allow_list.txt.txt`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)
+<h3>🛠️ Archivos del proyecto</h3>
 
----
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py"><code>file_updater.py</code> — Script de actualización de archivos</a></li>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt"><code>allow_list.txt.txt</code> — Lista de acceso</a></li>
+</ul>
 
-# 🗄️ Proyecto de auditoría y consultas SQL
+<hr>
 
-Este proyecto reúne documentación y consultas SQL relacionadas con la auditoría de registros y accesos en bases de datos relacionales.
+<h2>🗄️ Proyecto 6 — Auditoría de registros y accesos mediante consultas SQL</h2>
 
-### 📄 Informe del proyecto
+<p>Este proyecto reúne documentación y consultas SQL relacionadas con la auditoría de registros y accesos en bases de datos relacionales.</p>
 
-[**Proyecto 6 - Auditoria de Registros y Accesos Mediante Consultas SQL.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
+<h3>📄 Informe del proyecto</h3>
 
-### 🛠️ Archivos del proyecto
+<a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf"><img src="https://img.shields.io/badge/ABRIR-PDF-blue?style=flat" alt="Abrir informe PDF"></a>
 
-- [**Consultas de seguridad —&#x20;**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)[**`consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
+<h3>🛠️ Archivos del proyecto</h3>
 
+<ul>
+<li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql"><code>consultas_seguridad.sql</code> — Consultas de seguridad</a></li>
+</ul>
 ---
 
 # 🌐 Contacto
