@@ -38,7 +38,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - [**01-Casos de estudio**](01-Casos%20de%20estudio/): proyectos de respuesta a incidentes, análisis de tráfico de red y auditorías de seguridad.
 - [**02-python-automation**](02-python-automation/): automatización mediante Python y control de listas de acceso.
 - [**03-sql-audits**](03-sql-audits/): consultas SQL y ejercicios de auditoría de registros y accesos.
-- [**04-documentacion-general**](04-documentacion-general/): portafolio de ciberseguridad completo y documentación general.
+- [**04-documentacion-general**](04-documentacion-general/): portafolio de ciberseguridad completo. 
 
 
 
