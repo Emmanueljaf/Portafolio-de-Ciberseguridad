@@ -31,7 +31,7 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 - **Organización simulada:** Orion Financial Group, sector financiero.
 - **Objetivo:** analizar una secuencia simulada de eventos de autenticación y acceso, identificar indicadores que requieren investigación, evaluar riesgos y preparar el escalamiento técnico y la comunicación ejecutiva.
 
-### 📄 Informe y respaldo técnico
+### 📄 Informe del Proyecto 
 
 - [**Proyecto 1 - Gestion, Investigacion y Escalamiento de un Incidente de Seguridad - Respaldo Tecnico**](01-Casos%20de%20estudio/Proyecto%201%20-%20Gestion%2C%20Investigacion%20y%20Escalamiento%20de%20un%20Incidente%20de%20Seguridad%20-%20Respaldo%20Tecnico.pdf)
 
