@@ -16,7 +16,7 @@ Este repositorio reúne proyectos prácticos desarrollados durante mi formación
 
 Los escenarios simulados se identifican como tales y se mantienen diferenciados de las evidencias obtenidas en prácticas técnicas reales.
 
-# 📘 **Portafolio Completo** 📄 [Abrir Portafolio de Ciberseguridad Completo - PDF](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
+# 📘 **Portafolio Completo** ####📄 [Abrir Portafolio de Ciberseguridad Completo - PDF](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
 
 El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
 
