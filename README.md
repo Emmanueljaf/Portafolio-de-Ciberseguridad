@@ -110,21 +110,17 @@ Los archivos .pcapng son las capturas originales para su inspección técnica en
 
 ---
 
----
-
----
-
 ## 🐍 Proyecto de automatización con Python
 
 Este proyecto reúne recursos de automatización mediante Python, orientados al control de listas de acceso y a la actualización de archivos.
 
 ### 📂 Carpeta completa
+- [**Ver carpeta completa del proyecto**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/02-python-automation)
 
-- [**Ver todos los archivos del proyecto de Python**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/02-python-automation)
+### 📄 Informe del proyecto
+- [**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python.pdf**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
 
-### 📄 Documentación y archivos individuales
-
-- [**Informe del proyecto de Python (PDF)**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/02-python-automation)
+### 🛠️ Archivos del proyecto
 - [**Script de actualización de archivos — `file_updater.py`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/file_updater.py)
 - [**Lista de acceso — `allow_list.txt.txt`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/02-python-automation/allow_list.txt.txt)
 
@@ -135,12 +131,12 @@ Este proyecto reúne recursos de automatización mediante Python, orientados al 
 Este proyecto reúne documentación y consultas SQL relacionadas con la auditoría de registros y accesos en bases de datos relacionales.
 
 ### 📂 Carpeta completa
+- [**Ver carpeta completa del proyecto**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/03-sql-audits)
 
-- [**Ver todos los archivos del proyecto SQL**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/03-sql-audits)
+### 📄 Informe del proyecto
+- **Proyecto SQL:** reemplazar este enlace por el nombre exacto del PDF que tenés actualmente en `03-sql-audits`.
 
-### 📄 Documentación y archivos individuales
-
-- [**Informe del proyecto SQL (PDF)**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/tree/main/03-sql-audits)
+### 🛠️ Archivos del proyecto
 - [**Consultas de seguridad — `consultas_seguridad.sql`**](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql)
 
 ---
