@@ -149,21 +149,7 @@ Los escenarios simulados se identifican como tales y se mantienen diferenciados 
 ## 🌐 Contacto
 
 - **GitHub:** [Portafolio de Ciberseguridad](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad)
-- **LinkedIn:** en preparación.
+- **LinkedIn:** https://www.linkedin.com/in/emmanuel-alvarez-ferreyra/
 
-
-### 📄 Informe del proyecto
-
-
-
-### 📄 Informe del proyecto
-
-
-
-### 📄 Informe del proyecto
-
-
-
-### 📄 Informe del proyecto
-
+ 
 
