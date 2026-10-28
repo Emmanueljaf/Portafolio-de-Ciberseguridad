@@ -180,7 +180,6 @@ El repositorio está organizado por áreas de trabajo para facilitar la revisió
 <ul>
 <li><a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/03-sql-audits/consultas_seguridad.sql"><code>consultas_seguridad.sql</code> — Consultas de seguridad</a></li>
 </ul>
----
 
 # 🌐 Contacto
 
