@@ -110,24 +110,32 @@ Los archivos .pcapng son las capturas originales para su inspección técnica en
 
 ---
 
-## 🐍 Automatización con Python
+---
 
-Esta sección contiene los recursos del Proyecto 5, orientado a la automatización de tareas de ciberseguridad y al control de listas de acceso.
+## 🐍 Proyecto de automatización con Python
 
-- [**Carpeta de automatización con Python**](02-automatización-python/)
-- [**Proyecto 5 - Automatizacion de Tareas de Ciberseguridad con Python (PDF)**](02-automatización-python/Proyecto%205%20-%20Automatizacion%20de%20Tareas%20de%20Ciberseguridad%20con%20Python.pdf)
-- [Script de actualización de archivos — `file_updater.py`](02-python-automation/file_updater.py)
-- [Lista de acceso — `allow_list.txt.txt`](02-python-automation/allow_list.txt.txt)
+Este proyecto reúne recursos de automatización mediante Python, orientados al control de listas de acceso y a la actualización de archivos.
+
+### 📄 Documentación y archivos
+
+- [**Proyecto Python — Informe del proyecto (PDF)**](02-python-automation/Proyecto%20Python.pdf)
+- [**Script de actualización de archivos — `file_updater.py`**](02-python-automation/file_updater.py)
+- [**Lista de acceso — `allow_list.txt.txt`**](02-python-automation/allow_list.txt.txt)
+
+[📂 **Ver carpeta completa: 02-python-automation**](02-python-automation/)
 
 ---
 
-## 🗄️ Auditorías y consultas SQL
+## 🗄️ Proyecto de auditoría y consultas SQL
 
-Esta sección reúne los recursos del Proyecto 6, centrado en la auditoría de registros y accesos mediante consultas SQL.
+Este proyecto reúne documentación y consultas SQL relacionadas con la auditoría de registros y accesos en bases de datos relacionales.
 
-- [**Carpeta de auditorías SQL**](03-auditorías-sql/)
-- [**Proyecto 6 - Auditoria de Registros y Accesos Mediante Consultas SQL (PDF)**](03-auditor%C3%ADas-sql/Proyecto%206%20-%20Auditoria%20de%20Registros%20y%20Accesos%20Mediante%20Consultas%20SQL.pdf)
-- [Consultas de seguridad — `consultas_seguridad.sql`](03-sql-audits/consultas_seguridad.sql)
+### 📄 Documentación y archivos
+
+- [**Proyecto SQL — Informe del proyecto (PDF)**](03-sql-audits/Proyecto%20SQL.pdf)
+- [**Consultas de seguridad — `consultas_seguridad.sql`**](03-sql-audits/consultas_seguridad.sql)
+
+[📂 **Ver carpeta completa: 03-sql-audits**](03-sql-audits/)
 
 ---
 
