@@ -16,8 +16,7 @@ Este repositorio reúne proyectos prácticos desarrollados durante mi formación
 
 Los escenarios simulados se identifican como tales y se mantienen diferenciados de las evidencias obtenidas en prácticas técnicas reales.
 
-# 📘 **Portafolio Completo** 
-#### 📄 [Abrir Portafolio de Ciberseguridad Completo - PDF](04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)
+<h1>📘 Portafolio Completo <a href="https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf"><span style="font-size: 14px;">📄 Abrir Portafolio de Ciberseguridad Completo - PDF</span></a></h1>
 
 El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
 
