@@ -18,7 +18,7 @@ Los escenarios simulados se identifican como tales y se mantienen diferenciados 
 
 # 📘 Portafolio Completo <sup>[📄 Abrir PDF](https://github.com/Emmanueljaf/Portafolio-de-Ciberseguridad/blob/main/04-documentacion-general/Portafolio%20de%20Ciberseguridad%20Completo.pdf)</sup>
 
-El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
+> **🎯:** El documento principal reúne mi perfil profesional y los proyectos seleccionados para presentar mis conocimientos y competencias en ciberseguridad.
 
 ## 📂 Acceso Directo a los Proyectos
 
